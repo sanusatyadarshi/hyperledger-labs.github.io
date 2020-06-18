@@ -15,7 +15,7 @@ I would like to collaborate with contributors from the Hyperledger community to 
 - https://github.com/sanusatyadarshi
 
 # Sponsor
-- https://github.com/arsulegai - Member of Hyperledger TSC
+- https://github.com/arsulegai
 
 # Pre-existing repository
 - https://github.com/sanusatyadarshi/hyperledger-fabric-on-k8s-production
