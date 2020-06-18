@@ -9,6 +9,8 @@ The aim of this lab is to create a  CI/CD pipeline using Jenkins, Packer, Ansibl
 
 Deploy a production grade Hyperledger Fabric Blockchain network on Kubernetes using Jenkins, Packer, Ansible, Terraform and Spinnaker.
 
+I would like to collaborate with contributors from the Hyperledger community to contribute to the code-base, test and document the process of deploying a Production ready Fabric network, with all the enterprise features such as Log management, tracing etc. 
+
 # Initial Committers
 - https://github.com/sanusatyadarshi
 
